@@ -41,7 +41,7 @@ The primary objective of this project is to enable the remote and secure updatin
 This documentation is structured to provide a comprehensive understanding of the FOTA update system...
 
 ## IoT
-![[Pasted image 20240310114947.png]]
+![Pasted image 20240310114947](https://github.com/Islam-Alabassy/FOTA/assets/149616454/610e6a39-ab4d-4e5a-b444-08911e74bc3a)
 Figure 2: Relation between IoT components in details
 ### GUI Tool in Node-RED
 
@@ -74,7 +74,7 @@ One of the critical tasks performed by the ESP32 in our FOTA project is the hand
 ## ECU Bootloader
 
 The ECU Bootloader plays a crucial role in the firmware update process...
-![[Pasted image 20240310114331.png]]
+![Pasted image 20240310114331](https://github.com/Islam-Alabassy/FOTA/assets/149616454/9b33da2b-628f-4cb9-b803-0ab79b5b218a)
 Figure 3: ECU Bootloader State Diagram
 
 ### Bootloader state :
@@ -110,7 +110,7 @@ The application 2 is running until receiving request from NodeMCU ESP82 .
 
 After receiving request , it will change the ROM_Marker to APP2_request and jump to the bootloader .
 
-![[Pasted image 20240310115128.png]]
+![Pasted image 20240310115128](https://github.com/Islam-Alabassy/FOTA/assets/149616454/a7089df1-7c9e-4ba4-ba99-cdaca4248ec3)
 Figure 4: Bootloader Flow chart
 
 ## V-model
