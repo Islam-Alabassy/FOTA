@@ -26,7 +26,7 @@ In our rapidly advancing technological era, embedded systems and the Internet of
 ## Introduction
 
 ### Project Overview
-
+![Pasted image 20240310113956.png](https://github.com/Islam-Alabassy/FOTA.git/Pasted image 20240310113956.png)
   ![[Pasted image 20240310113956.png]]
 *Figure 1: Project layout*  
 
