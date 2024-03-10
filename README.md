@@ -1,5 +1,5 @@
 # Firmware Over-the-Air (FOTA) Update System
-
+[This is an external link to Demo Video (^_^)](https://www.youtube.com/watch?v=PTmDw_H42_c)
 ## Table of Contents
 - [Abstract](#abstract)
 - [Introduction](#introduction)
