@@ -26,8 +26,8 @@ In our rapidly advancing technological era, embedded systems and the Internet of
 ## Introduction
 
 ### Project Overview
-![Pasted image 20240310113956.png](https://github.com/Islam-Alabassy/FOTA.git/Pasted image 20240310113956.png)
-  ![[Pasted image 20240310113956.png]]
+  ![Pasted image 20240310113956](https://github.com/Islam-Alabassy/FOTA/assets/149616454/59d1d2c3-9b0b-46c7-9d4e-2bbd0a3aab4b)
+
 *Figure 1: Project layout*  
 
 The FOTA update system comprises a robust architecture with distinct components...
